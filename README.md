@@ -1,5 +1,4 @@
 # SPVP360
-# SPVP360
 
 Spherical Convolution empowered FoV Prediction in360-degree Video Multicast with Limited FoV Feedbac
 
@@ -9,7 +8,7 @@ Field of view (FoV) prediction is critical in 360-degree video multicast, which 
 Requirements
 
 
-Citing
+#Citing
 
   @ARTICLE{9537928,
   author={Liu, Zhi and Li, Qiyue and Chen, Xianfu and Wu, Celimuge and Ishihara, Susumu and Li, Jie and Ji, Yusheng},
@@ -22,7 +21,8 @@ Citing
   doi={10.1109/MNET.101.2000364}}
 
 
-Usage
+#Usage
 
 
 This model is implemented by pytorch-gpu 0.3.1, and the detail of our computational environment is listed in 'requirement.txt'. Just run 'Test.py' to see the saliency prediction results on a test video.
+
